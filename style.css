@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.col-5{
+    border: 2px solid black;
+}
+.col-12{
+    border: 2px solid black;
+}
+
+
+table{
+width: 100%;
+/* border: 2px solid black; */
+/* padding-left: 10px; */
+}
+thead{
+
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+td {
+
+padding-bottom: 10px;
+    border: .1px grey solid;
+  }
+
+.container hr{
+    width: 100%;
+    border: 2px solid black;
+
+}
+.container h1{
+    float: right;
+    color: rgb(140, 144, 140);
+}
+.col-11{
+    border: none;
+}
+.col-11 p{
+    float: right;
+}
+
